@@ -1,0 +1,16 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://shixy.github.com
+name: shixy's blog
+author: shixy
+qq: 35518781
+email: walker.shixy@gmail.com
+duoshuo: walker_shixy
+beian: 
+cnzz: 119959
+weibo: walker.shixy@gmail.com
+github: shixy
+pygments: true
+safe: true
+paginate: 20
+about: "不会写博客"
